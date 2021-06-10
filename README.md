@@ -1,6 +1,6 @@
 <!---->
 <div align="center">
-<img src="./ReadMeFiles/app.jpg" align="center">
+<img src="./app.jpg" align="center">
 </div>
 
 # Liliana Reis - Website Portfólio de fotografia
